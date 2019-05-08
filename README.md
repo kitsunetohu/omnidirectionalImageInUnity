@@ -1,3 +1,5 @@
+#Theta
+
 ##まずはTHETAのアプリをダウンロード。
 
 https://support.theta360.com/ja/download/
